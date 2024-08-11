@@ -10,4 +10,5 @@
 - rmdir = elimina carpeta
 - clear = limpia la terminal
 # week 0
-- 
+
+ - 
